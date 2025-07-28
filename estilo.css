@@ -118,11 +118,4 @@ ul {
 .search-container button:hover{
     background-color: orange;
     transition: 0.3s;
-
-
-.Logo h1 {
-    font-size: 50px;
-    margin-bottom: 40px;
-    color: white;
-    text-align: center;
 }
