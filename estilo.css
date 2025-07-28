@@ -119,3 +119,7 @@ ul {
     background-color: orange;
     transition: 0.3s;
 }
+
+.logo {
+    text-align:center;
+}
